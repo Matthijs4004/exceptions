@@ -1,6 +1,3 @@
-from webbrowser import get
-
-
 getal = input("Vul eens een getal hier in, maakt niet uit welk getal ")
 
 try:
